@@ -26,7 +26,7 @@ O primeiro exercício desenvolvido é uma **calculadora simples**, capaz de real
      ```
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/viniols1/logica-python.git
+   git clone https://github.com/viniols1/Treinamento-python.git
 3. Acesse a pasta do projeto:
    cd logica-python
 4. Execute o programa:
