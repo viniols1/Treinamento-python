@@ -1,4 +1,4 @@
-# Uma mini calculadora que te da o resultado das 4 principais operações.
+# Uma mini calculadora que te fornece o resultado das 4 principais operações.
 
 n1 = int(input("Digite um numero"))
 n2 = int(input("Digite outro numero"))
@@ -10,5 +10,6 @@ print("A soma é igual a ", soma)
 print("A multiplicação é igual a ", multiplicacao)
 print("A divisão é igual a ", divisao)
 print("A subtração é igual a", subitracao)
+
 
 
