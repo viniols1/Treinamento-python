@@ -33,11 +33,17 @@ O primeiro exercício desenvolvido é uma **calculadora simples**, capaz de real
    python treinamento.py
 
 🖥️ Exemplo de execução
+
 Digite um numero: 10
+
 Digite outro numero: 5
+
 A soma é igual a  15
+
 A multiplicação é igual a  50
+
 O divisão é igual a  2.0
+
 O subtração é igual a 5
 
 🎯 Objetivo
