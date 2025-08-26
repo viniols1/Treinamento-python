@@ -29,7 +29,7 @@ Também está anexado um pequeno exercício de uma **calculadora simples**, capa
 1. Certifique-se de ter o **Python 3.x** instalado em sua máquina.  
    - Para verificar, rode no terminal:
      ```bash
-     python --version
+     python --version 3.13
      ```
 2. Clone este repositório:
    ```bash
