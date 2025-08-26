@@ -6,7 +6,7 @@ Também está anexado um pequeno exercício de uma **calculadora simples**, capa
 
 ---
 
-## 📂 Arquivo
+## 📂 Arquivos
 
 - **`treinamento.py`** → Script em Python que:
   - Lê dois números digitados pelo usuário.
@@ -14,8 +14,14 @@ Também está anexado um pequeno exercício de uma **calculadora simples**, capa
     - ✅ Soma  
     - ✅ Subtração  
     - ✅ Multiplicação  
-    - ✅ Divisão  
-
+    - ✅ Divisão
+      
+- **`treinamento2.py`** → Script em Python que:
+- Lê dois números digitados pelo usuário.
+- - Calcula e exibe:
+  - ✅ Soma
+  - ✅ Divisão
+  - ✅ Média
 ---
 
 ## 🚀 Como executar
