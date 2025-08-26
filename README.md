@@ -32,7 +32,7 @@ O primeiro exercício desenvolvido é uma **calculadora simples**, capaz de real
 4. Execute o programa:
    python treinamento.py
 
-🖥️ Exemplo de execução
+🖥️ Exemplo de execução:
 
 Digite um numero: 10
 
