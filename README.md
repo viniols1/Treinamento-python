@@ -2,6 +2,7 @@
 
 Este repositório registra meus primeiros passos em **programação com Python**, com foco em **lógica de programação**.  
 O primeiro exercício desenvolvido é uma **calculadora simples**, capaz de realizar as quatro operações básicas: **soma, subtração, multiplicação e divisão**.
+Também está anexado um pequeno exercício de uma **calculadora simples**, capaz de realizar a **média** de dois numeros somados.
 
 ---
 
