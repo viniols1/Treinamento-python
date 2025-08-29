@@ -1,18 +1,20 @@
 # Calculadora que soma o faturamento mensal durante o ano e forneçe a média final.
 
-janeiro = float(input('Digite o valor do faturamento em Janeiro: '))
-fevereiro = float(input('Digite o valor do faturamento em Fevereiro: '))
-marco = float(input('Digite o valor do faturamento em Março: '))
-abril = float(input('Digite o valor do faturamento em Abril: '))
-maio = float(input('Digite o valor do faturamento em Maio: '))
-junho = float(input('Digite o valor do faturamento em Junho: '))
-julho = float(input('Digite o valor do faturamento em Julho: '))
-agosto = float(input('Digite o valor do faturamento em Agosto: '))
-setembro = float(input('Digite o valor do faturamento em Setembro: '))
-outubro = float(input('Digite o valor do faturamento em Outubro: '))
-novembro = float(input('Digite o valor do faturamento em Novembro: '))
-dezembro = float(input('Digite o valor do faturamento em Dezembro: '))
-soma = janeiro+fevereiro+marco+abril+maio+junho + \
-    julho+agosto+setembro+outubro+novembro+dezembro
+print('Soma de faturamento mensal e média de faturamento')
+
+jan = float(input('Digite o valor do faturamento de Janeiro: '))
+fev = float(input('Digite o valor do faturamento de Fevereiro: '))
+mar = float(input('Digite o valor do faturamento de Março: '))
+abr = float(input('Digite o valor do faturamento de Abril: '))
+mai = float(input('Digite o valor do faturamento de Maio: '))
+jun = float(input('Digite o valor do faturamento de Junho: '))
+jul = float(input('Digite o valor do faturamento de Julho: '))
+ago = float(input('Digite o valor do faturamento de Agosto: '))
+set = float(input('Digite o valor do faturamento de Setembro: '))
+out = float(input('Digite o valor do faturamento de Outubro: '))
+nov = float(input('Digite o valor do faturamento de Novembro: '))
+dez = float(input('Digite o valor do faturamento de Dezembro: '))
+soma = jan+fev+mar+abr+mai+jun+jul+ago+set+out+nov+dez
 divisao = soma/12
-print(f'A média de faturamento da empresa é: {divisao:.2f}')
+print(f'A média mensal de faturamento é: {divisao:.2f}')
+
