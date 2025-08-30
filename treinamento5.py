@@ -16,5 +16,7 @@ nov = float(input('Digite o valor do faturamento de Novembro: '))
 dez = float(input('Digite o valor do faturamento de Dezembro: '))
 soma = jan+fev+mar+abr+mai+jun+jul+ago+set+out+nov+dez
 divisao = soma/12
-print(f'A média mensal de faturamento é: {divisao:.2f}')
+print(f" A soma anual de faturamento é R$: {soma:,.2f}')
+print(f'A média mensal de faturamento é R$: {divisao:,.2f}')
+
 
