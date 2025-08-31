@@ -7,6 +7,9 @@ nparticipacao = int(input('Digite a nota de participação do aluno: '))
 ntrabalho = int(input('Digite a nota de trabalho do aluno: '))
 ncomportamento = int(input('Digite a nota de comportamento do aluno: '))
 nprova = int(input('Digite a nota da prova do aluno: '))
+
 soma = nparticipacao+ntrabalho+ncomportamento+nprova
 divisao = soma/4
+
 print('A média final do aluno é: ', divisao)
+
